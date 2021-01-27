@@ -11,5 +11,6 @@
   "sub": true,
   "undef": true,
   "laxbreak": true,
-  "unused": true
+  "unused": true,
+  "esversion": 6
 }

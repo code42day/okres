@@ -1,4 +1,4 @@
-var format = require('../lib/format');
+const format = require('../lib/format');
 
 require('../locale/pl');
 require('../locale/it');
